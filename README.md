@@ -9,5 +9,4 @@ Zadania z informatyki
 
 Linki do zrealizowanych programów:
 
-1. [Alorytm 1]()
-2. [Alorytm 2]()
+1. [zadanie1]()
